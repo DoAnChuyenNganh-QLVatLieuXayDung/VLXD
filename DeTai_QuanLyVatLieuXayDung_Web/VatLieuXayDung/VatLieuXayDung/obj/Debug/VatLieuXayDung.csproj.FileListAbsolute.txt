@@ -1,0 +1,88 @@
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll.config
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.pdb
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Infrastructure.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.xml
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csproj.CoreCompileInputs.cache
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csproj.CopyComplete
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.dll
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.pdb
+C:\bao\DoAnCN\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csprojAssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Infrastructure.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csprojResolveAssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\VatLieuXayDung\Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.pdb
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll.config
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\VatLieuXayDung.pdb
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Infrastructure.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\Newtonsoft.Json.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Net.Http.Formatting.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Helpers.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Http.WebHost.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Mvc.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.Razor.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Deployment.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\bin\System.Web.WebPages.Razor.xml
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csproj.AssemblyReference.cache
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csproj.CoreCompileInputs.cache
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.csproj.CopyComplete
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.dll
+E:\TaiLieu\DoAn_Final\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Web\VatLieuXayDung\VatLieuXayDung\obj\Debug\VatLieuXayDung.pdb

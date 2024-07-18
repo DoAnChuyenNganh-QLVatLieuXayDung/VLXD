@@ -1,0 +1,320 @@
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\DoAnCN\doAN\QLVatLieuXayDung\App\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\App\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder\Web\App\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\app11_12\App\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\App\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QLVLXD\VatLieuXayDung\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\DTO.dll.config
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\Microsoft.Win32.Registry.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\RestSharp.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Buffers.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.CodeDom.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Data.Odbc.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Data.OleDb.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Diagnostics.EventLog.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Drawing.Common.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.IO.Packaging.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.IO.Ports.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Memory.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Permissions.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Security.Principal.Windows.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.ServiceModel.Syndication.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\bin\Debug\System.Threading.AccessControl.xml
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.csproj.Fody.CopyLocal.cache
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\New folder (2)\DeTai_QuanLyVatLieuXayDung\DeTai_QuanLyVatLieuXayDung_Form\DTO\obj\Debug\DTO.pdb
